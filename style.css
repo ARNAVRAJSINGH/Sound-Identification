@@ -1,0 +1,34 @@
+body {
+  font-family: "special Elite", cursive;
+  background-color: aquamarine;
+}
+
+.header_div {
+  background-color: azure;
+  color: crimson;
+}
+.header_div p {
+  font-family: "Roboto", sans-serif;
+  color: blue;
+  letter-spacing: 2px;
+  font: size 12px;
+  font-weight: bold;
+}
+.main_div button {
+  font-family: "Roboto", sans-serif;
+  margin-top: 30px;
+  width: 130px;
+  letter-spacing: 3px;
+  font-weight: bolder;
+}
+.footer{
+  position: fixed;
+  color: dimgrey;
+  bottom: 0;
+  width: 100%;
+text-align: center;
+ background-color: aliceblue;
+line-height: 3;
+text-shadow: 5px 5px 5px royalblue;
+font-size: 18px;
+}
